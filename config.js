@@ -20,5 +20,6 @@ var networkStat = [
         ["labbinarymining.com", "http://crep-us.labbinarymining.com:8117"],
         ["crep.hashblocks.top", "http://hashblocks.top:39828"],
         ["poolsofaus.com", "http://poolsofaus.com:8117"],
-        ["npool.pw/crepcoin", "http://crep.npool.pw:8118"]
+        ["npool.pw/crepcoin", "http://crep.npool.pw:8118"],
+        ["crep.getpool.org", "https://crep.getpool.org/api"]
 ];
