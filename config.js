@@ -4,7 +4,7 @@ var poolHost = "crep.npool.pw";
 
 var blockExplorer = "http://blocks.crepcoin.org/";
 
-var cryptonatorWidget = ["BTC-USD", "XMR-USD"];
+var cryptonatorWidget = ["BTC-USD", "CREP-BTC"];
 
 var easyminerDownload = "https://github.com/zone117x/cryptonote-easy-miner/releases/";
 
