@@ -21,5 +21,6 @@ var networkStat = [
         ["crep.hashblocks.top", "http://hashblocks.top:39828"],
         ["poolsofaus.com", "http://poolsofaus.com:8117"],
         ["npool.pw/crepcoin", "http://crep.npool.pw:8118"],
-        ["crep.getpool.org", "https://crep.getpool.org/api"]
+        ["crep.getpool.org", "https://crep.getpool.org/api"],
+        ["crep.miner.rocks", "https://crep.miner.rocks/api"]
 ];
